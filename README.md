@@ -12,3 +12,5 @@ Based on the complex literature style of this fiction, we decided to apply Super
 
 Using Sentence_Clustering.ipynb,we were able to output a mathced_sentence.csv; after cleaning out irrelavent clusters, the sentences were labeled and put into Santi_dataset.csv.
 
+Utilizing the 'finiteautomata/bertweet-base-sentiment-analysis' model from HuggingFace Transformer, we had a 60.8% accuracy on predicting the sentiment in Santi_dataset. We performed a 70-30 train test split, and the model increased accuracy to 70% after it was trained with the Santi dataset.
+
