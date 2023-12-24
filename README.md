@@ -7,7 +7,8 @@ This project dedicates to Two Main task: Explore the differnece between translat
 ## Translation Difference
 In order to explore the differences between different translation, we plot the top 10 words(Noun) for each book in the Triolology. This was able to give us some insights of writing patterns and the nature between the two language. wordvisulization.ipynb was used to explore top 10 words of each book,we then create Occurence.csv to store the data and the visulizations were plotted using the datafile.
 
-
-
-
 ## Sentiment Analysis Model and Application
+Based on the complex literature style of this fiction, we decided to apply Supervised Learning to obtain a sentiment analysis model. The key idea is to have experienced audience label selected text with 'Positive','Neutral',or 'Negative'.
+
+Using Sentence_Clustering.ipynb,we were able to output a mathced_sentence.csv; after cleaning out irrelavent clusters, the sentences were labeled and put into Santi_dataset.csv.
+
