@@ -1,5 +1,6 @@
 # ThreeBodyProblem_Sentiment_Analysis
 Analysis of the Famous science fiction: Three Body Problem Triology with NLP Approach
+
 Inspired by the Lord Of the Ring Sentiment Anlysis Project, we decided to look at the Chinese version and the Translation of the Three Body Problem Triology.
 This project dedicates to Two Main task: Explore the differnece between translation and develop a sentiment analysis model for the fiction.
 
