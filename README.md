@@ -28,4 +28,4 @@ Netflix has annouced its project to film the ThreeBody Problem as a TV series, a
 
 As an example, we used CommentScraper.ipynb to scrape the comment section of the teaser Netflix released on Youtube. We then apply our model to the comments to explore possible advice for Nefflix's production. We used [CommentScraper.ipynb](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/CommentScraper.ipynb) for collecting comments.
 
-We then examine the Postive_Comments and Negative Comments in[Comment Analysis](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Comment_Analysis.ipynb). The results from the analysis could be seen [here](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/YoutubeCommentAnalysis.md)
+We then examine the Postive_Comments and Negative Comments in [Comment Analysis](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Comment_Analysis.ipynb). The results from the analysis could be seen [here](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/YoutubeCommentAnalysis.md)
