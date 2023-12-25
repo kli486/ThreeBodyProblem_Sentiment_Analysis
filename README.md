@@ -15,9 +15,12 @@ Using Sentence_Clustering.ipynb,we output a mathced_sentence.csv for each trilog
 In order to explore the differences between different translation, we plot the top 10 words(Noun) for each book in the Triolology. This was able to give us some insights of writing patterns and the nature between the two language. wordvisulization.ipynb was used to explore top 10 words of each book,we then create Occurence.csv to store the data and the visulizations were plotted using the datafile.
 
 ### Sentiment Over Time 
-It is also meaningful to see is there any difference of sentiments when the story is progressing between the two language. We trained an Naive Bayes model based on the Santi
+It is also meaningful to see is there any difference of sentiments when the story is progressing between the two language. We trained an Naive Bayes model based on the Santi Dataset. Even though the result accuracy was around 50%, we seek to use the probability score as a strength indicator of the sentiment.
 
 ## Sentiment Analysis Model and Application
 Utilizing the 'finiteautomata/bertweet-base-sentiment-analysis' model from HuggingFace Transformer, we had a 60.8% accuracy on predicting the sentiment in Santi_dataset. In an effort to preserve features in the pre-trained model, we utilized the trainer class provided by HuggingFace Transformer.We performed a 70-30 train test split, and the model increased accuracy to 70% after it was trained with the Santi dataset.
 
 ### Applications
+Netflix has annouced its project to film the ThreeBody Problem as a TV series, and the model we created offers a good tool to analyze feed back and expectations from the audience.
+
+As an example, we used CommentScraper.ipynb to scrape the comment section of the teaser Netflix released on Youtube. We then apply our model to the comments to explore possible advice for Nefflix's production.
