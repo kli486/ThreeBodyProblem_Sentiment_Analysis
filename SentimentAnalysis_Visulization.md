@@ -8,5 +8,6 @@
 <img src="https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Figures/ThreeBody01_Sentiment_Overtime.png" alt="ThreeBody01_SentimentOvertime" width="600" height="300"/>
 
 ### Chinese ThreeBody02:
-<img src="https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Figures/Santi_01_Sentiment_Overtime.png" alt="Santi_02_SentimentOvertime" width="600" height="300"/>
+<img src="https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Figures/Santi_02_Sentiment_Overtime.png" alt="Santi_02_SentimentOvertime" width="600" height="300"/>
+
 
