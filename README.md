@@ -10,7 +10,7 @@ Based on the complex literature style of this fiction, we decided to apply Super
 
 
 
-Using [Sentence_Clustering](Sentence_Clustering.ipynb), we output mathced_sentence for each trilogy of the science fiction; we examined the data set and foundthat short sentences tend to be meaningless for our prediction,after cleaning out the irrelavent sentences, the selected sentences were labeled and put into Santi_dataset.csv.
+Using [Sentence_Clustering](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/SentenceClustering.ipynb), we output mathced_sentence for each trilogy of the science fiction; we examined the data set and foundthat short sentences tend to be meaningless for our prediction,after cleaning out the irrelavent sentences, the selected sentences were labeled and put into Santi_dataset.csv.
 
 ## Translation Difference
 ### Top 10 Words used
