@@ -1,5 +1,6 @@
 ## Sentiment Over time plot
-
+Sentence Score is the probability of the corresponding sentiment: {-1:negative 0:neutral 1:positive}.
+It can be also understand as the strength of the sentiment.
 
 ### Chinese ThreeBody01:
 <img src="https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Figures/Santi_01_Sentiment_Overtime.png" alt="Santi_01_SentimentOvertime" width="600" height="300"/>
