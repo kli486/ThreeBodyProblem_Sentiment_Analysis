@@ -20,3 +20,6 @@ The primary focus here is to explore positive and negative comments, and try to 
 
 ### Most used adj in Positive Comments:
 ('good', 114), ('Chinese', 76), ('first', 56), ('great', 47), ('best', 36), ('better', 32), ('i', 26), ('excited', 26), ('amazing', 22), ('much', 21), ('true', 21), ('last', 20), ('sci-fi', 18), ('awesome', 17), ('more', 16), ('hard', 15), ('original', 14), ('interesting', 14), ('favorite', 14), ('chinese', 13)
+
+### Conclusion:
+Based on our initial attempt to evaluate the Negative/ Postive Comments, it seems that there are some concerns of the book-tv adaption. Since 'black', 'white' and 'asians' appeared in the Negative Comments, it is possible to make an assumption that the audience so far is not satisfied with how Netflix is balancing the race of the characters.
