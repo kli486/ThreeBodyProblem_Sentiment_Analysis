@@ -14,7 +14,7 @@ Using [Sentence_Clustering](https://github.com/kli486/ThreeBodyProblem_Sentiment
 
 In order to explore the differences between different translation, we plotted the top 10 words(Noun) for each book in the Triolology. This was able to give us some insights of writing patterns and the nature between the two language. [Wordvisulization](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Wordvisulization.ipynb) was used to examine top 10 words of each book. We then created a [dataset](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/DataSet/Occurence.csv) to store the data, and the visulizations were plotted [here](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Top10Words_Visulization.md).
 
-### Sentiment Over Time 
+### Translation Difference:  Sentiment Over Time 
 The investigation also encompasses an analysis of the variation in sentiment as the narrative progresses across the two languages. For this purpose, a Naive Bayes model was trained utilizing the Santi Dataset. Although the accuracy of the model hovered around 50%, we still can get useful insight from the probability score. This approach aims to provide a basic understanding of sentiment dynamics within the fiction, reflecting potential linguistic and cultural variations in the story's portrayal. We used [SentimentOverTime](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/SentimentOvertime.ipynb) for this task and the analysis could be accessed [here](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/SentimentAnalysis_Visulization.md).
 
 ## Sentiment Analysis Model and Application
