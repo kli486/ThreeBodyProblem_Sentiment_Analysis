@@ -14,7 +14,7 @@ Using [Sentence_Clustering](https://github.com/kli486/ThreeBodyProblem_Sentiment
 
 ## Translation Difference
 ### Top 10 Words used
-In order to explore the differences between different translation, we plot the top 10 words(Noun) for each book in the Triolology. This was able to give us some insights of writing patterns and the nature between the two language. wordvisulization.ipynb was used to explore top 10 words of each book,we then create Occurence.csv to store the data and the visulizations were plotted using the datafile.
+In order to explore the differences between different translation, we plot the top 10 words(Noun) for each book in the Triolology. This was able to give us some insights of writing patterns and the nature between the two language. [Wordvisulization](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Wordvisulization.ipynb) was used to explore top 10 words of each book,we then create a [dataset](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/DataSet/Occurence.csv) to store the data and the visulizations were plotted using the datafile.
 
 ### Sentiment Over Time 
 It is also meaningful to see is there any difference of sentiments when the story is progressing between the two language. We trained an Naive Bayes model based on the Santi Dataset. Even though the result accuracy was around 50%, we seek to use the probability score as a strength indicator of the sentiment.
@@ -25,4 +25,4 @@ Utilizing the 'finiteautomata/bertweet-base-sentiment-analysis' model from Huggi
 ### Applications
 Netflix has annouced its project to film the ThreeBody Problem as a TV series, and the model we created offers a good tool to analyze feed back and expectations from the audience.
 
-As an example, we used CommentScraper.ipynb to scrape the comment section of the teaser Netflix released on Youtube. We then apply our model to the comments to explore possible advice for Nefflix's production. We used[CommentScraper.ipynb](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/CommentScraper.ipynb) for collecting comments,and the model training and prediction was done using [Model_Training& Comment Prediction](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Sentiment_Training.ipynb).
+As an example, we used CommentScraper.ipynb to scrape the comment section of the teaser Netflix released on Youtube. We then apply our model to the comments to explore possible advice for Nefflix's production. We used [CommentScraper.ipynb](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/CommentScraper.ipynb) for collecting comments,and the model training and prediction was done using [Model_Training& Comment Prediction](https://github.com/kli486/ThreeBodyProblem_Sentiment_Analysis/blob/main/Code/Sentiment_Training.ipynb).
