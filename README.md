@@ -8,7 +8,9 @@ This project dedicates to Two Main task: Explore the differnece between translat
 ## Data Collection and Processing
 Based on the complex literature style of this fiction, we decided to apply Supervised Learning to obtain a sentiment analysis model. The key idea is to have experienced audience label selected text with 'Positive','Neutral',or 'Negative'.
 
-Using Sentence_Clustering.ipynb,we output a mathced_sentence.csv for each trilogy of the science fiction; we then examine the data set and find that short sentences tend to be meaningless for our prediction,after cleaning out the irrelavent sentences, the selected sentences were labeled and put into Santi_dataset.csv.
+
+
+Using [Sentence_Clustering](Sentence_Clustering.ipynb), we output mathced_sentence for each trilogy of the science fiction; we examined the data set and foundthat short sentences tend to be meaningless for our prediction,after cleaning out the irrelavent sentences, the selected sentences were labeled and put into Santi_dataset.csv.
 
 ## Translation Difference
 ### Top 10 Words used
